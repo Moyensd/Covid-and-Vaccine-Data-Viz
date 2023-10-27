@@ -16,6 +16,7 @@ Data Source from [https://ourworldindata.org/covid-vaccinations](https://ourworl
 ## Additional Resources
 
 - [Global Vaccine Tracker.pdf](Global%20Vaccine%20Tracker.pdf) - This PDF document is a summary of the visualization and insights derived from the data.
+- [Tableau Visualization with KPIs](https://public.tableau.com/app/profile/kiyomichi.suzuki/viz/CovidandVaccinedataviz/GlobalVaccineTracker) The visualization in tableau public
 
 ## Data Source
 
